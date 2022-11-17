@@ -5,6 +5,7 @@ enableEmoji = true
 twitter = "@korteke"
 largeTwitterCard = false
 introDescription = "Personal Tech, Sec and more blog"
+introURL = false
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 keywords = ["blog", "security", "technology", "personal"]
