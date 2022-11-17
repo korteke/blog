@@ -1,11 +1,11 @@
-baseURL = 'https://korteke.github.io'
+baseURL = 'https://blog.kvak.net'
 languageCode = 'en-us'
-title = 'Personal tech blog'
+title = 'Personal tech & sec blog'
 theme = 'm10c'
 
 [params]
   author = "Keijo Korte"
-  description = "Blop blog"
+  description = "..||.."
 
   [[params.social]]
     icon = "github"
