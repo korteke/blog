@@ -1,6 +1,6 @@
 ---
 title: "Security.txt -file generator" 
-date: 2022-11-27T15:56:53+02:00 
+date: 2022-11-27T19:36:31+02:00 
 description: "Security.txt -file generator"
 featured: true
 toc: false
@@ -8,6 +8,7 @@ usePageBundles: false
 codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
+thumbnail: "images/hashtag.png"
 categories:
   - Security
 tags:

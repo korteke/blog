@@ -2,6 +2,7 @@
 title: "Ehlo world"
 date: 2022-11-17T22:52:33+02:00
 draft: false
+thumbnail: "images/welcome.png"
 #tags: ["installation", "configuration"]
 ---
 
